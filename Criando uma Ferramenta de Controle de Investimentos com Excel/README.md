@@ -62,15 +62,15 @@ A planilha calcula automaticamente:
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Microsoft Excel 2013+**
+- **Microsoft Excel 2021+**
 - Fórmulas financeiras: `VF`, `SOMA`, `SE`, `E`, `MÉDIA`
 - Validação de dados personalizada
 
 ---
 
-## 🧠 Autoria
+## 🧠 Autor
 
-Desenvolvido por **Alais Cassimira Salino Barbosa**, como exercício prático e funcional aplicando conhecimentos de Excel, automatização e organização de dados com foco em finanças pessoais.
+Desenvolvido por **Ivan Wagner Ostorari Filho**, como exercício prático e funcional aplicando conhecimentos de Excel, automatização e organização de dados com foco em finanças pessoais.
 
 ---
 
